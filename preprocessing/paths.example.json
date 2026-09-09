@@ -1,0 +1,12 @@
+{
+  "project_root": "/path/to/neurometabolic-release",
+  "mimic_root": "/path/to/mimic-iv-3.1",
+  "mimic_icu": "/path/to/mimic-iv-3.1/icu",
+  "mimic_hosp": "/path/to/mimic-iv-3.1/hosp",
+  "mimic_note": "/path/to/extracted/mimic-iv-note",
+  "mimic_extra": "/path/to/MIMIC-IV",
+  "eicu_root": "/path/to/eicu-collaborative-research-database-2.0",
+  "nhanes_root": "/path/to/NHANES",
+  "nhanes_2021_2023": "/path/to/NHANES/2021.8-2023.8",
+  "output_root": "/path/to/derived/clinical-window-workdir"
+}

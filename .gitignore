@@ -1,0 +1,14 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Generated data, results, model weights, and local paths
+data/
+outputs/
+results/
+model/
+*.pt
+*.pth
+*.ckpt
+*.joblib
+paths.json
